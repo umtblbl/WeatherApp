@@ -5,7 +5,7 @@
 
 **Model**: API çağrısı ile gelen sınıfların tutulduğu paket.
 
-**Retrofit**: Retrofit instance ve GET metodlarını bulunduran paket
+**Retrofit**: Retrofit instance'ını ve RxJava Observe yapısı ile kullanılan request metodlarını bulunduran paket
 
 **Adapter**: Günlük tahminde kullanılan ViewPager ve 5 Günlük tahminde kullanılan RecyclerView için Adapter Sınıflarının tutulduğu paket.
 
