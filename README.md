@@ -3,7 +3,7 @@
 ![](https://media.giphy.com/media/Ige1JmuZg16GZGow68/giphy.gif) 
 
 
-**Model**: API çarısı ile gelen sınıfların tutulduğu paket.
+**Model**: API çağrısı ile gelen sınıfların tutulduğu paket.
 
 **Retrofit**: Retrofit instance ve GET metodlarını bulunduran paket
 
